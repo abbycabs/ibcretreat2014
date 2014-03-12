@@ -3,10 +3,10 @@
 
 This lightning talk was mostly using the console to write and run javascript on
 the fly. I ignored some best practices to minimize typing - read a detailed
-explanation in an upcoming blog post.
+explanation in [this blog post](https://wiki.oicr.on.ca/display/webdevclub/2014/03/11/Why+I+JavaScript+%28in+300+seconds%29+-+IBC+Retreat+2014).
 
 
-First, open Chrome with the disable-web-security flag. The ICGC data portal api
+First, open Chrome with the `disable-web-security` flag. The ICGC data portal api
 (dcc.icgc.org/api) doesn't currently allow cross-origin resource sharing. (Or
   you can pick a different api)
 
